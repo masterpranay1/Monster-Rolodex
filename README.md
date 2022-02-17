@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Monster Rolodex App
+This is tutorial project from my React Course.
+Placeholder api was used to fetch out the names and the email.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](./Screenshots/react.svg) ![](./Screenshots/monster-app.svg)
 
-## Available Scripts
+[Live Link](https://masterpranay1.github.io/Monster-Rolodex/)
+[Course Link -> Zero to Hero Mastery Complete React Developer ](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-In the project directory, you can run:
+## Homeapage
 
-### `npm start`
+![](./Screenshots/homepage.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Filter Feature
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![](./Screenshots/moster-rolodex-filter.gif)
 
-### `npm test`
+## My New Learning
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Create React App 
+    - What is `npx` ?
+    - How its different from `npm` ?
+    - What actually is CRA ?
 
-### `npm run build`
+2. JSX
+    - How its different from javascript ?
+    - How naming is done in JSX like insead of dash we are using camelCase and others.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Function Component And Class Component
+    - Difference between there structure
+    - Automatic binding in ES6 `Arrow function`
+    - When to use which one ?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. React State
+    - What is state ?
+    - Uni - Directional Data Flow
+    - How to update them using `setState`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. Props
+    - Some Special props in react
 
-### `npm run eject`
+6. Life Cycle Methods
+    - What are different life cycle methods?
+    - why are they needed ?
+    - When they are invoked ?
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+7. Building and Pushing to Github Pages
+    - gh-pages library was used and hosted through the teminal
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Why React
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I understood why react is needed and what the perks of using it.
+What is a `SPA` ( Single Page Application ) ?
+How Rendering is done in React ?
+Why React Follows a Uni Directional Data Flow ?
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Author
 
-## Learn More
+Hey!! I am Pranay Raj. I am passionate in Web Devlopment and Making Creative Projects is like my hobby :)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can connect me:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![linkedin-image](./Screenshots/linked-in.svg)](https://www.linkedin.com/in/masterpranay/) [![Github-image](./Screenshots/masterpranay.svg)](https://github.com/masterpranay1)
