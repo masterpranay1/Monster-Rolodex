@@ -5,6 +5,7 @@ Placeholder api was used to fetch out the names and the email.
 ![](./Screenshots/react.svg) ![](./Screenshots/monster-app.svg)
 
 [Live Link](https://masterpranay1.github.io/Monster-Rolodex/)
+
 [Course Link -> Zero to Hero Mastery Complete React Developer ](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
 ## Homeapage
